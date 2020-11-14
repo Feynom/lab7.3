@@ -1,2 +1,4 @@
 ﻿  lab7.3.cpp
+D:\Львівська політехніка\Алгоритмізація та програмування\Лабораторна робота 7.3\VisualStudio\lab7.3\lab7.3\lab7.3.cpp(122): warning C4715: 'find_i': not all control paths return a value
+D:\Львівська політехніка\Алгоритмізація та програмування\Лабораторна робота 7.3\VisualStudio\lab7.3\lab7.3\lab7.3.cpp(185): warning C4715: 'find_r': not all control paths return a value
   lab7.3.vcxproj -> D:\Львівська політехніка\Алгоритмізація та програмування\Лабораторна робота 7.3\VisualStudio\lab7.3\Debug\lab7.3.exe
